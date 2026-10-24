@@ -1,0 +1,31 @@
+name,date,usage_amount,usage_unit
+Netflix,2026-10-02,1.5,saat
+Netflix,2026-10-10,1.0,saat
+Spotify,2026-10-01,2.0,saat
+Spotify,2026-10-03,1.5,saat
+Spotify,2026-10-04,3.0,saat
+Spotify,2026-10-07,2.5,saat
+Spotify,2026-10-12,4.0,saat
+Spotify,2026-10-15,3.0,saat
+Spotify,2026-10-18,2.0,saat
+ChatGPT Plus,2026-10-01,3.5,saat
+ChatGPT Plus,2026-10-02,4.0,saat
+ChatGPT Plus,2026-10-03,2.5,saat
+ChatGPT Plus,2026-10-05,5.0,saat
+ChatGPT Plus,2026-10-08,6.0,saat
+ChatGPT Plus,2026-10-10,3.0,saat
+ChatGPT Plus,2026-10-14,4.5,saat
+ChatGPT Plus,2026-10-17,5.5,saat
+ChatGPT Plus,2026-10-20,4.0,saat
+GitHub Copilot,2026-10-02,2.0,saat
+GitHub Copilot,2026-10-05,3.0,saat
+GitHub Copilot,2026-10-08,2.5,saat
+GitHub Copilot,2026-10-15,2.0,saat
+MacFit Spor,2026-10-03,1,ziyaret
+MacFit Spor,2026-10-16,1,ziyaret
+YouTube Premium,2026-10-01,1.0,saat
+YouTube Premium,2026-10-05,0.5,saat
+YouTube Premium,2026-10-09,1.5,saat
+YouTube Premium,2026-10-12,2.0,saat
+YouTube Premium,2026-10-19,1.0,saat
+Cloud Storage,2026-10-01,0.2,saat

@@ -1,0 +1,8 @@
+name,category,monthly_cost,currency,renewal_day
+Netflix,streaming,250.0,TL,15
+Spotify,streaming,65.0,TL,5
+ChatGPT Plus,ai_tool,700.0,TL,22
+GitHub Copilot,ai_tool,350.0,TL,10
+MacFit Spor,fitness,950.0,TL,1
+YouTube Premium,streaming,80.0,TL,28
+Cloud Storage,ai_tool,120.0,TL,18
